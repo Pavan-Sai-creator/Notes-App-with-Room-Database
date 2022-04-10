@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:background="#154196"
-        android:text="Submit"
+        android:text="SAVE NOTE"
         android:textColor="#ffffff"
         app:layout_constraintTop_toBottomOf="@id/input"
         tools:layout_editor_absoluteX="16dp" />
